@@ -85,7 +85,5 @@ Example:
 - `js-yaml`: For converting JavaScript objects to YAML.
 - `json2csv`: For converting JSON to CSV.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
